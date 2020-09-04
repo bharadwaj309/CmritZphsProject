@@ -1,7 +1,3 @@
-# CmritZphsProject
-Biologyclass
-
-
 <!DOCTYPE html>
 <html>
 <head>
